@@ -1,0 +1,92 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-NET8_Features-b45bab33-b378-4cd0-a9c2-fcd90a5e33c6</UserSecretsId>
+    <RootNamespace>NET8_Features</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="src\4.LINQ\**" />
+    <Compile Remove="src\ConfigurationProviders\**" />
+    <Compile Remove="src\Delegate\**" />
+    <Compile Remove="src\Dispose\**" />
+    <Compile Remove="src\Equality Check\**" />
+    <Compile Remove="src\General\**" />
+    <Compile Remove="src\Problems\**" />
+    <Compile Remove="src\Thread Tasks\**" />
+    <Compile Remove="src\XML\**" />
+    <Content Remove="src\4.LINQ\**" />
+    <Content Remove="src\ConfigurationProviders\**" />
+    <Content Remove="src\Delegate\**" />
+    <Content Remove="src\Dispose\**" />
+    <Content Remove="src\Equality Check\**" />
+    <Content Remove="src\General\**" />
+    <Content Remove="src\Problems\**" />
+    <Content Remove="src\Thread Tasks\**" />
+    <Content Remove="src\XML\**" />
+    <EmbeddedResource Remove="src\4.LINQ\**" />
+    <EmbeddedResource Remove="src\ConfigurationProviders\**" />
+    <EmbeddedResource Remove="src\Delegate\**" />
+    <EmbeddedResource Remove="src\Dispose\**" />
+    <EmbeddedResource Remove="src\Equality Check\**" />
+    <EmbeddedResource Remove="src\General\**" />
+    <EmbeddedResource Remove="src\Problems\**" />
+    <EmbeddedResource Remove="src\Thread Tasks\**" />
+    <EmbeddedResource Remove="src\XML\**" />
+    <None Remove="src\4.LINQ\**" />
+    <None Remove="src\ConfigurationProviders\**" />
+    <None Remove="src\Delegate\**" />
+    <None Remove="src\Dispose\**" />
+    <None Remove="src\Equality Check\**" />
+    <None Remove="src\General\**" />
+    <None Remove="src\Problems\**" />
+    <None Remove="src\Thread Tasks\**" />
+    <None Remove="src\XML\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="src\ActionDelegatesExample.cs" />
+    <Compile Remove="src\ArrayOfCustomObjectOperations.cs" />
+    <Compile Remove="src\AttributeList.cs" />
+    <Compile Remove="src\C#11 - Deconstruct class.cs" />
+    <Compile Remove="src\C#11 List Patterns.cs" />
+    <Compile Remove="src\c#11 Static using declarations.cs" />
+    <Compile Remove="src\codility.cs" />
+    <Compile Remove="src\CodilityTest.cs" />
+    <Compile Remove="src\constants.cs" />
+    <Compile Remove="src\CustomValidation.cs" />
+    <Compile Remove="src\Employee.Linq.cs" />
+    <Compile Remove="src\FuncDelegateExample.cs" />
+    <Compile Remove="src\FunctionalProgramming.cs" />
+    <Compile Remove="src\GenericFunction.cs" />
+    <Compile Remove="src\GenericMathSupport.cs" />
+    <Compile Remove="src\HigherOrderFunction.cs" />
+    <Compile Remove="src\Immutability-ReadOnly-objecttype.cs" />
+    <Compile Remove="src\Immutability-ReadOnly-primitive.cs" />
+    <Compile Remove="src\IReadOnlyList.cs" />
+    <Compile Remove="src\is as.cs" />
+    <Compile Remove="src\LambdaExample.cs" />
+    <Compile Remove="src\Linq Custom conditions.cs" />
+    <Compile Remove="src\LINQ.cs" />
+    <Compile Remove="src\MutableReferenceTypes.cs" />
+    <Compile Remove="src\New in C#11- JsonAnonymous.cs" />
+    <Compile Remove="src\ObjectAssign.cs" />
+    <Compile Remove="src\PatternChecking.cs" />
+    <Compile Remove="src\PureFunctions.cs" />
+    <Compile Remove="src\Reference Value Types.cs" />
+    <Compile Remove="src\Reference.cs" />
+    <Compile Remove="src\static.cs" />
+    <Compile Remove="src\struct.cs" />
+    <Compile Remove="src\SwitchExpression.cs" />
+    <Compile Remove="src\Yield-IAsyncEnumerable.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+  </ItemGroup>
+</Project>

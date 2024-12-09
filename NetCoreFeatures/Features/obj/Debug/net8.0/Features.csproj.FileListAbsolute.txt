@@ -1,0 +1,180 @@
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\appsettings.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\settings.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Features.exe
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Features.deps.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Features.runtimeconfig.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Features.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.csproj.AssemblyReference.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.AssemblyInfoInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.AssemblyInfo.cs
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.csproj.Up2Date
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\refint\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\Features.genruntimeconfig.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\Practice .Net8\.NetCore Features\Features\obj\Debug\net8.0\ref\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\appsettings.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\settings.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Features.exe
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Features.deps.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Features.runtimeconfig.json
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Features.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.csproj.AssemblyReference.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.AssemblyInfoInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.AssemblyInfo.cs
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.csproj.Up2Date
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\refint\Features.dll
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.pdb
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\Features.genruntimeconfig.cache
+C:\Users\prasa\1Bruce\Projects\My Projects 2024\NetCoreFeatures\NetCoreFeatures\Features\obj\Debug\net8.0\ref\Features.dll
